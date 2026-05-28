@@ -1,0 +1,3 @@
+# Full mode (spaCy). Requires Python 3.9–3.12.
+# Python 3.9: upgrade pip first, then install.
+spacy>=3.7.0,<3.8.0
